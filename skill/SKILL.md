@@ -1,5 +1,5 @@
 ---
-name: wechat-article-to-markdown
+name: wechat-url-to-markdown
 description: 把微信公众号文章链接转换成 Markdown 文件，自动下载图片并保存到当前工作目录。当用户给出 mp.weixin.qq.com 链接、说"把这个微信文章转成 markdown"、"下载这篇公众号文章"、"转换公众号文章"、"保存这篇微信文章"，或要求把任何 weixin/微信公众号文章导出成 md 时，必须使用本 skill。即使用户没明说"转 markdown"，只要意图是把微信公众号文章下载到本地保存，也要触发。
 ---
 

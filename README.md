@@ -14,7 +14,7 @@ Windows / macOS / Linux 通用命令：
 
 ```bash
 git clone https://github.com/AlexDou-Y/wechat-url-to-markdown-skill.git
-cp -r wechat-url-to-markdown-skill/skill ~/.claude/skills/wechat-article-to-markdown
+cp -r wechat-url-to-markdown-skill/skill ~/.claude/skills/wechat-url-to-markdown
 ```
 
 完事了。第一次使用时，skill 会自动 `pip install` 底层抓取工具，无需手动操作。
